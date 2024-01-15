@@ -1,0 +1,6 @@
+@Anota_Ai_HostAddress = http://localhost:5288
+
+GET {{Anota_Ai_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
